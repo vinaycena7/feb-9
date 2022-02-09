@@ -1,0 +1,9 @@
+a=int(input('enetr the number:')0
+if(a%2==0():
+ print('given number is even')
+else:
+ print('given number is odd')
+ 
+ output:
+ enetr the number:7
+ given number is odd
