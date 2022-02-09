@@ -1,0 +1,12 @@
+a=int(input('enetr the first number:'))
+b=int(input('enetr the second number:'))
+if(a>=b):
+  print('first number is greater than second number')
+else:
+  print('second number is greater than first number')
+  
+output:
+enter the first number: 9
+enter the second number:3
+first number is greater than second 
+  
